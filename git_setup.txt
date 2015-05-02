@@ -1,9 +1,11 @@
 	HOW TO INITIALISE GIT REPO AND GENERATE SSH KEY AND HOW TO IDENTIFY YOUR SELF TO A ONLINE REPO:
 ----------------------------------------------------------------------------------------------------
+
 1. Create a dir anywhere
 2. OPEN GITBASH
 3. Go to the directory from bash which you treat as repository (history directory)
 3. Type git init (done only once for each repository directory)
+
 4
 	a. Type ssh-keygen -t rsa -C "registered email id"
 	b. Accept default dir and choose all defaults
@@ -15,9 +17,7 @@
 	settings > ssh keys > add ssh key > give title and paste key and save
 6.clone the repo.
 
-======================================================================================================================================================
-
->> git clone repourl
+>> git clone repourl (get ssh url from repo settings)
 
 >> to remove file use 
 	git rm "filepath with name"
