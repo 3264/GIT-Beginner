@@ -1,4 +1,4 @@
-created directory--- git init-- to say its a git directory
+Create a directory anyhere in you system. Then type "git init". This command ill tell git that this directory is a git directory.
 
 	HOW TO INITIALISE GIT REPO AND GENERATE SSH KEY AND HOW TO IDENTIFY YOUR SELF TO A ONLINE REPO:
 ----------------------------------------------------------------------------------------------------
