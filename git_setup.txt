@@ -26,3 +26,5 @@ settings>ssh keys>add ssh key>give title and paste key and save
 -----------------------------to pull from remote repo
 -->git pull origin master
 --->gitk is a review tool. all details of commits are present.we can review changes in gitk window.
+
+> A "git pull" will fail/abort when you have some local changes. So always you have to stash your local changes and do a "git pull" and again apply the stashed changes.
