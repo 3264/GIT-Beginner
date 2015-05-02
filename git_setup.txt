@@ -1,8 +1,7 @@
 created directory--- git init-- to say its a git directory
 
 	HOW TO INITIALISE GIT REPO AND GENERATE SSH KEY AND HOW TO IDENTIFY YOUR SELF TO A ONLINE REPO:
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*******************************hfnkjsdncklsdanfhgfvsdbhvkj
+----------------------------------------------------------------------------------------------------
 create a dir anywhere
 1.OPEN GITBASH
 2.go to any directry from bash which u treat as repository(history rep)
@@ -16,11 +15,9 @@ b.open .pub file and copy key and paste in your online account settings
 EXAMPLE:
 settings>ssh keys>add ssh key>give title and paste key and save
 6.clone the repo.
-	-->git clone repourl
+-------------->>git clone repourl
 -------------->>to remove file -->git rm "filepath"
--------------------->>git commit -m "reason"
-------------------------------------@@@@@@@@@@@@@@@@@@@@@@@
-"gitk & "----> shows commits in new window.
+-------------->>git commit -m "reason""gitk & "----> shows commits in new window.
 --------------------------------to push into remote repo
 ->git push origin master
 -----------------------------to pull from remote repo
