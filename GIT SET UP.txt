@@ -1,0 +1,19 @@
+created directory--- git init-- to say its a git directory
+
+	HOW TO INITIALISE GIT REPO AND GENERATE SSH KEY AND HOW TO IDENTIFY YOUR SELF TO A ONLINE REPO:
+create a dir anywhere
+1.OPEN GITBASH
+2.go to any directry from bash which u treat as repository(history rep)
+3.type git init--done only once for each system
+4
+a.type ssh -keygen -t rsa -C "registered email id"
+b.acept default dir . choose all defaults
+c.choose all defaults and key is generated at the specified dir in id_rsa.pub file
+5 a.navigate to .ssh folder 
+b.open .pub file and copy key and paste in your online account settings
+EXAMPLE:
+settings>ssh keys>add ssh key>give title and paste key and save
+6.clone the repo.
+	-->git clone repourl
+git rm "filepath"
+git commit -m "reason"
