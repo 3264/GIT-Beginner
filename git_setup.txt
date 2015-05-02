@@ -15,9 +15,11 @@
 	b. Open .pub file and copy key and paste in your online account settings
 	EXAMPLE for GITHUB
 	settings > ssh keys > add ssh key > give title and paste key and save
-6.clone the repo.
 
->> git clone repourl (get ssh url from repo settings)
+============================================================================================================================================
+
+>> To clone a repo use
+	git clone repourl (get ssh url from repo settings)
 
 >> to remove file use 
 	git rm "filepath with name"
