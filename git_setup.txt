@@ -52,3 +52,5 @@ b) A merge conflict which git cannot resolve and need human intervention.
 3. Changes done in different lines are automatically resolve by git.
 4. Changes done in the same line are non resolvable merge conflict and git leaves the decision to the developer to resolve it.
 5. when non resolvable merge conflict occurs , the developers involved in it sit together and resolve the conflicts.
+>>those which are added , are only committed.
+>> you can push more than one commit in a single push.
