@@ -60,3 +60,7 @@ COMMIT CODE
 >> no two commit ids will be same
 >> all commits are created like a chain. every commit is a child of another commit except the root commit.
 >> the commit code generated for a commit will be identical across other developers repository and remote reposirory.
+
+DISCARDING ALL CHANGES IN A FILE OR IN FILES
+>>to remove all changes in a file use git checkout "filename1" "filename2" "filename..n"
+>> once removed the changes ,they cannot be brought back. so, use git checkout "filename " cautiously.
