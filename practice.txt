@@ -1,3 +1,4 @@
 This is a new file. we will learn merging in this file.
 merging conflicts:
 this is a dummy line.
+I have a micromax A1 white mobile. It has a 5mp rear camera and 2mp front camera.
