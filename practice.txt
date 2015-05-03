@@ -7,7 +7,7 @@ its features are :
 4.it has a system memory of 2gb.
 Kitti: I have a white color micromax A1 mobile. Its price is rupees 5449 only.
 Features of my mobile:
-1. It is a dual sim mobile
+1. It is a dual sim mobile.
 2. It has a 5mp rear camera and a 2mp front camera.
 3. My mobile runs on android 5.0 version. It is also called as android lollipop.
 4. My mobile has rear led flash light which will be useful while taking pictures in low light.
