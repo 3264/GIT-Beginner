@@ -54,3 +54,9 @@ b) A merge conflict which git cannot resolve and need human intervention.
 5. when non resolvable merge conflict occurs , the developers involved in it sit together and resolve the conflicts.
 >>those which are added , are only committed.
 >> you can push more than one commit in a single push.
+
+COMMIT CODE
+>>each and every commit created will have a commit id. 
+>> no two commit ids will be same
+>> all commits are created like a chain. every commit is a child of another commit except the root commit.
+>> the commit code generated for a commit will be identical across other developers repository and remote reposirory.
