@@ -21,4 +21,4 @@ NAAZ: samsung mobile runs on android.
 Naaz:cost of samsung my mobile is 10K.
 Kitti: One cannot set a custom ringtone in android one mobiles.
 Naaz:my supports wifi direct.
-
+NAAZ:my mobile has a screen guard and a panel case.
