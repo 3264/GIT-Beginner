@@ -1,1 +1,3 @@
-this is a new file. we will learn merging in this file
+This is a new file. we will learn merging in this file.
+merging conflicts:
+
