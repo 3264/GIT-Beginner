@@ -42,3 +42,13 @@
 >> "git stash pop" command is used to get back the hidden changes.
 
 >> "merge conflict occurs" when some changes occurs in the same line by different collaborators.
+
+
+MERGE CONFLICTS
+1. Merge conflict will happen when multiple developers or collaborators changes the same file.
+2. There are two types of merge conflicts.
+a) A merge conflict which git can automatically resolve.
+b) A merge conflict which git cannot resolve and need human intervention.
+3. Changes done in different lines are automatically resolve by git.
+4. Changes done in the same line are non resolvable merge conflict and git leaves the decision to the developer to resolve it.
+5. when non resolvable merge conflict occurs , the developers involved in it sit together and resolve the conflicts.
