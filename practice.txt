@@ -1,9 +1,0 @@
-This is a new file. we will learn merging in this file.
-Merging conflicts.
-This is a dummy line.
-I have a micromax A1 white mobile. It has a 5mp rear camera and 2mp front camera.
-This is 5th line added
-I use sony headset with my micromax mobile.
-My headset is black in color.
-this is a 9th line added
-
