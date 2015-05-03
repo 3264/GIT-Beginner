@@ -3,3 +3,4 @@ merging conflicts:
 this is a dummy line.
 I have a micromax A1 white mobile. It has a 5mp rear camera and 2mp front camera.
 this is %th line added
+I use sony headset with my micromax mobile.
