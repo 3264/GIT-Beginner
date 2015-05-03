@@ -19,6 +19,6 @@ Features of my mobile:
 Kitti: I used to have Sony Xperia ZR mobile before purchasing Micromax A1 mobile.
 NAAZ: samsung mobile runs on android.
 Naaz:cost of samsung my mobile is 10K.
-Kitti: One cannot set a custom ringtone in android one mobile.
+Kitti: One cannot set a custom ringtone in android one mobiles.
 Naaz:my supports wifi direct.
 
