@@ -54,13 +54,23 @@ b) A merge conflict which git cannot resolve and need human intervention.
 5. when non resolvable merge conflict occurs , the developers involved in it sit together and resolve the conflicts.
 >>those which are added , are only committed.
 >> you can push more than one commit in a single push.
-
+-------------------------------------------------------------------------------------------------
 COMMIT CODE
 >>each and every commit created will have a commit id. 
 >> no two commit ids will be same
 >> all commits are created like a chain. every commit is a child of another commit except the root commit.
 >> the commit code generated for a commit will be identical across other developers repository and remote reposirory.
-
+----------------------------------------------------------------------------------------------------
 DISCARDING ALL CHANGES IN A FILE OR IN FILES
 >>to remove all changes in a file use git checkout "filename1" "filename2" "filename..n"
 >> once removed the changes ,they cannot be brought back. so, use git checkout "filename " cautiously.
+
+STAGING THE CHANGES
+>>telling to git that u have made some changes in the reposirory by adding a new file, deleting an existing file or updating an existing file  is called as staging
+>>generally we use git add/rm "filename" to stage the changes
+>> we use git add "filename" when a new file is added to the reposirory or changes made to existing file. 
+>> generally we use git rm "filename" when an existing file is deleted
+
+UNSTAGING A FILE
+>>	TO unstage a file use git reset HEAD "FILENAME".  this will move the file from staging area(green colour) to non staging(red colour) area 
+>> when u unstage a file , no contents inside the files will be changed.
