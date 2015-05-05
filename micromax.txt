@@ -10,6 +10,7 @@ I use internet 3G service.
 4. My mobile has rear LED flash light which will be useful while taking pictures in low light.
 5. My mobile does not support NFC.
 what is nfc??
+this mobile supprots auto suggest words.
 6. My mobile does not have WiFi direct.
 7. My mobile has 1GB internal RAM and 8GB internal storage.
 8. This mobile is sound speaker is waste.
