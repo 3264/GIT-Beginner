@@ -3,7 +3,8 @@ Features of my mobile:
 1. It is a dual SIM mobile.
 How many SIMs do you have in your mobile?
 I have only one SIM in my mobile.
-My service provider is Airtel
+My service provider is Airtel.
+I use internet 3G service.
 2. It has a 5mp rear camera and a 2mp front camera.
 3. My mobile runs on android 5.0 version. It is also called as android Lollipop.
 4. My mobile has rear LED flash light which will be useful while taking pictures in low light.
