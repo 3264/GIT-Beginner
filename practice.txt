@@ -25,3 +25,4 @@ Kitti: One cannot set a custom ringtone in android one mobiles.
 Naaz:my supports wifi direct.
 NAAZ:my mobile has a screen guard and a panel case.
 Kitti: Till now I used many mobiles for example Nokia, Apple, Sony and Micromax.
+Naaz: my laptop processor is intel dual core.
