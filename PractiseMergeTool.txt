@@ -1,0 +1,1 @@
+Git performs merge conflicts with the help tools. am using kdiff3 tool.
