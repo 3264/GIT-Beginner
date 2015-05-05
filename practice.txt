@@ -10,8 +10,6 @@ Its features are :
 Kitti: I have a white color micromax A1 mobile. Its price is rupees 5449 only.
 Features of my mobile:
 1. It is a dual SIM mobile.
-I have dell inspiron laptopn. colour of my laptop is black.
-I can change panel of my laptop.
 2. It has a 5mp rear camera and a 2mp front camera.
 3. My mobile runs on android 5.0 version. It is also called as android Lollipop.
 4. My mobile has rear LED flash light which will be useful while taking pictures in low light.
@@ -25,3 +23,6 @@ Kitti: One cannot set a custom ringtone in android one mobiles.
 Naaz:my supports wifi direct.
 NAAZ:my mobile has a screen guard and a panel case.
 Kitti: Till now I used many mobiles for example Nokia, Apple, Sony and Micromax.
+NAAZ:
+I have dell inspiron laptopn. colour of my laptop is black.
+I can change panel of my laptop.
