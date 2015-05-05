@@ -23,10 +23,10 @@ Kitti: One cannot set a custom ringtone in android one mobiles.
 Naaz:my supports wifi direct.
 NAAZ:my mobile has a screen guard and a panel case.
 Kitti: Till now I used many mobiles for example Nokia, Apple, Sony and Micromax.
-<<<<<<< HEAD
 Naaz: my laptop processor is intel dual core.
-=======
 Naaz:
 I have dell inspiron laptop. Colour of my laptop is black.
 I can change panel of my laptop.
->>>>>>> 64d160f108e089aa038e56cbca173372d78ac88e
+Naaz: my laptop processor is intel dual core.
+I have n series laptop.
+
