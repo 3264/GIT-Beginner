@@ -3,3 +3,4 @@ learning about git branch
 >> delete a branch : type git branch -D "branch name"
 >> to go back to master : type git checkout master
 >> created requirement2 branch
+>> next step it to push to remote repository by : git push origin requirement2
