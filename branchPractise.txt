@@ -1,0 +1,4 @@
+learning about git branch
+>> create a branch : type git checkout -b "branch name".
+>> delete a branch : type git branch -D "branch name"
+>> to go back to master : type git checkout master
