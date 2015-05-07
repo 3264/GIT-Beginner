@@ -12,7 +12,7 @@
 	c. Choose all defaults and key is generated at the specified dir in id_rsa.pub file
 5 
 	a. Navigate to .ssh folder 
-	b. Open .pub file and copy key and paste in your online account settings
+	b. Open .pub file and copy GITkey and paste in your online account settings
 	EXAMPLE for GITHUB
 	settings > ssh keys > add ssh key > give title and paste key and save
 
@@ -74,3 +74,8 @@ STAGING THE CHANGES
 UNSTAGING A FILE
 >>	TO unstage a file use git reset HEAD "FILENAME".  this will move the file from staging area(green colour) to non staging(red colour) area 
 >> when u unstage a file , no contents inside the files will be changed.
+
+GIT BRANCHING:
+>> to create a git branch, type git checkout -b "branch name"
+>> to delete a git branch , type git branch -D "branch name"
+>> to go back to master branch , type git checkout master
