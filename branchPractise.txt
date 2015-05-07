@@ -1,1 +1,2 @@
 learning about git branch
+>> create a branch : type git checkout -b "" branch name
